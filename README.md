@@ -1,12 +1,12 @@
-# The Mental Wellbeing Project Website
+# The ABCDE-Repronim Project Website
 
-This is the website of our mental wellbeing project.
+This is the website of the ABCD-Repronim project.
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch. Go to 
 *aboutwebsite.md*  to learn how to copy and modify this page for your purpose. 
 
 
-A big thank you to https://github.com/mpa139/allanlab for setting up this 
+A big thank you to https://github.com/mentalwellbeing/mentalwellbeing.github.io and https://github.com/mpa139/allanlab for setting up this 
 framework.
 
 
